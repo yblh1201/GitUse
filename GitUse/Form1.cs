@@ -16,5 +16,10 @@ namespace GitUse
         {
             InitializeComponent();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("我是ljf");
+        }
     }
 }
